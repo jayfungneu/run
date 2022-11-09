@@ -2,6 +2,8 @@
 ## Eneb&Isabel：master in big data and business intelligence
 官网链接：https://eneb.com/master-and-postgraduate/master-in-big-data-and-business-intelligence/
 
+优点：学费便宜
+
 学费：200美金左右
 
 学制：正常情况下6-12个月完成
@@ -13,6 +15,8 @@
 ## Georgia Tech:master of science in analytics
 官网链接：https://pe.gatech.edu/degrees/analytics
 
+优点：名校且课业负担不重
+
 学费：不到1w美金
 
 学制：1-2年
@@ -21,6 +25,8 @@
 
 ## Georgia Tech:master of computer science
 官网链接：https://pe.gatech.edu/degrees/computer-science
+
+优点：名校CS
 
 学费：不到1w美金
 
