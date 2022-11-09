@@ -1,4 +1,4 @@
-#online master推荐
+# online master推荐
 ## Eneb&Isabel：master in big data and business intelligence
 官网链接：https://eneb.com/master-and-postgraduate/master-in-big-data-and-business-intelligence/
 
@@ -10,7 +10,7 @@
 
 
 
-##Georgia Tech:master of science in analytics
+## Georgia Tech:master of science in analytics
 
 学费：不到1w美金
 
