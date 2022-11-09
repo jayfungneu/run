@@ -35,3 +35,15 @@
 申请：填申请表，需要个人陈述，推荐信，邮寄成绩单
 
 
+## York University：master of science in computer science 
+
+官网链接：https://online.york.ac.uk/study-online/msc-computer-science-online/
+
+优点：名校CS里面录取门槛最低
+
+学费：不到1w英镑
+
+学制：2年
+
+申请：每年6轮入学
+
