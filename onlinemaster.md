@@ -11,6 +11,7 @@
 
 
 ## Georgia Tech:master of science in analytics
+官网链接：https://pe.gatech.edu/degrees/analytics
 
 学费：不到1w美金
 
