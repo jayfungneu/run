@@ -18,3 +18,14 @@
 学制：1-2年
 
 申请：填申请表，需要个人陈述，推荐信，邮寄成绩单
+
+## Georgia Tech:master of computer science
+官网链接：https://pe.gatech.edu/degrees/computer-science
+
+学费：不到1w美金
+
+学制：2年，10门课
+
+申请：填申请表，需要个人陈述，推荐信，邮寄成绩单
+
+
