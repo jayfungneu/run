@@ -1,4 +1,4 @@
-#【FDU-Vancouver】How do you think this Computer Science Graduate Degree can help you achieve your career goals?
+## How do you think this Computer Science Graduate Degree can help you achieve your career goals?
 
 Pursuing a graduate degree can provide individuals with specialized knowledge and skills that can help them excel in their chosen field. This advanced level of education 
 
